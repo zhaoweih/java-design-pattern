@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<config>
+    <className>com.zhaoweihao.command.fbsetting.HelpCommand</className>
+    <className>com.zhaoweihao.command.fbsetting.MinimizeCommand</className>
+</config>
